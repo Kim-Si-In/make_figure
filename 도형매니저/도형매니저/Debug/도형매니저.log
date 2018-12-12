@@ -1,0 +1,4 @@
+﻿  다형성구현.cpp
+c:\users\user\desktop\과제랑 관련된\c++\도형매니저\도형매니저\다형성구현.cpp(17): warning C4244: '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\user\desktop\과제랑 관련된\c++\도형매니저\도형매니저\다형성구현.cpp(18): warning C4244: '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  도형매니저.vcxproj -> C:\Users\user\Desktop\과제랑 관련된\c++\도형매니저\Debug\도형매니저.exe
